@@ -2,7 +2,7 @@
 
 ## Model Description
 The code for the ConGen model described in the arXiv paper "Multi-Constraint Molecular Generative Model using Sparsely Labelled Training Data:
-Localized High-Concentration Electrolyte Diluent Screening Use Case" by J.P. Mailoa, <i>et al</i> ().
+Localized High-Concentration Electrolyte Diluent Screening Use Case" by J.P. Mailoa, <i>et al</i>.
 
 The full paper is published here: https://doi.org/10.1039/D3DD00064H.
 
