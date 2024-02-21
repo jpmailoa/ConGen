@@ -4,6 +4,8 @@
 The code for the ConGen model described in the arXiv paper "Multi-Constraint Molecular Generative Model using Sparsely Labelled Training Data:
 Localized High-Concentration Electrolyte Diluent Screening Use Case" by J.P. Mailoa, <i>et al</i> ().
 
+The full paper is published here: https://doi.org/10.1039/D3DD00064H.
+
 This code is based on the original implementation of semi-supervised variational auto-encoder (SSVAE) model described in the paper https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00263 by S. Kang, <i>et al</i>.
 
 The main modifications implemented in this repository consist of the following:
